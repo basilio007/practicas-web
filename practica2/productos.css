@@ -1,0 +1,35 @@
+.titulo{
+    color: white;
+    text-align: center;
+    font-size: 64px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header{
+    background-color: #416E7D;
+    width: 1500px;
+    height: 260px;
+}
+.producto1{
+    color: black;
+    text-decoration-line: underline;
+}
+
+.textofoto1{
+    margin-left: 30%;
+   
+    
+}
+
+.foto1{
+     height: 439px;
+    width: 400px;
+    padding-bottom: 115px;
+
+}
+
+.foto2{
+    height: 439px;
+    width: 400px; 
+}
+

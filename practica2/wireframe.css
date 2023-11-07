@@ -1,0 +1,138 @@
+.titulos .titulo{
+    color:white;
+    text-align: center;
+    font-size: 64px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.titulos .subtitulo{
+    color: white;
+    text-align: end;
+    padding-top: 115px;
+    
+}
+
+header{
+    background-color: #416E7D;
+   width: 1465px;
+   height: 270px;
+
+}
+
+
+.botones{
+    background-color: rgb(62, 62, 62);
+    width: 1500px;
+    height: 50px;
+    border-radius: 5px;
+}
+
+/*edicion del boton1*/
+.botones .boton1{
+    width: 150px;
+    height : 25px;
+    border: none;
+    color: white;
+    background-color: rgb(255, 0, 68);
+    box-shadow: inset 0 0 0 0 #f9e506;
+    transition: ease-out 0.3s;
+    font-size: 1rem;
+    outline: none;
+   
+}
+.botones .boton1:hover{
+    box-shadow: inset 150px 0 0 0 #0f0f0e;
+}
+
+/*edicion del boton2*/
+.botones .boton2{
+    width: 150px;
+    height : 25px;
+    margin-left:100px;
+    border: none;
+    color: white;
+    background-color: rgb(255, 0, 68);
+    box-shadow: inset 0 0 0 0 #f9e506;
+    transition: ease-out 0.3s;
+    font-size: 1rem;
+    outline: none;
+   
+}
+.botones .boton2:hover{
+    box-shadow: inset 150px 0 0 0 #0f0f0e;
+}
+/*edicion del boton3*/
+.botones .boton3{
+    width: 150px;
+    height : 25px;
+    margin-left:100px;
+    border: none;
+    color: white;
+    background-color: rgb(255, 0, 68);
+    box-shadow: inset 0 0 0 0 #f9e506;
+    transition: ease-out 0.3s;
+    font-size: 1rem;
+    outline: none;
+   
+}
+.botones .boton3:hover{
+    box-shadow: inset 150px 0 0 0 #0f0f0e;
+}
+/*edicion del boton4*/
+.botones .boton4{
+    width: 150px;
+    height : 25px;
+    margin-left:267px;
+    border: none;
+    color: white;
+    background-color: rgb(255, 0, 68);
+    box-shadow: inset 0 0 0 0 #f9e506;
+    transition: ease-out 0.3s;
+    font-size: 1rem;
+    outline: none;
+   
+}
+.botones .boton4:hover{
+    box-shadow: inset 150px 0 0 0 #0f0f0e;
+}
+/*edicion del boton5*/
+.botones .boton5{
+    width: 150px;
+    height : 25px;
+    border: none;
+    color: white;
+    background-color: rgb(255, 0, 68);
+    box-shadow: inset 0 0 0 0 #f9e506;
+    transition: ease-out 0.3s;
+    font-size: 1rem;
+    outline: none;
+   
+}
+.botones .boton5:hover{
+    box-shadow: inset 150px 0 0 0 #0f0f0e;
+}
+
+
+
+.fotografias .foto1{
+height: 378px;
+width: 421px;
+}
+
+.fotografias .foto2{
+    height: 430px;
+    width: 500px;
+    }
+
+    .fotografias .foto3{
+        height: 377px;
+        width: 307px;
+}
+.fotografias .foto4{
+    height: 377px;
+        width: 207px;
+}
+
+
+
+
+

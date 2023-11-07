@@ -1,0 +1,25 @@
+.titulo{
+    color:white;
+    text-align: center;
+    font-size: 64px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header{
+    background-color: #416E7D;
+   width: 1500px;
+   height: 260px;
+
+}
+body{
+    margin: 0;
+    padding: p;
+    background-image: url("pictures/logo.jpg");
+    background-size: cover;
+    background-position: center;
+
+    
+}
+.parafos{
+    color: rgb(33, 30, 30);
+}
